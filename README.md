@@ -9,23 +9,23 @@ Este repositório contém os circuitos digitais implementados no Logisim como pa
 
 Os seguintes circuitos foram implementados e descritos neste repositório:
 
-Registrador Flip-Flop do tipo D e JK
-Multiplexador de quatro opções de entrada
-Porta lógica XOR utilizando AND, NOT e OR
-Somador de 8 bits que recebe um valor inteiro e soma com o valor 4
-Memória ROM de 8 bits
-Memória RAM de 8 bits
-Banco de Registradores de 8 bits
-Somador de 8 bits
-Detector de sequência binária "101"
-ULA de 8 bits com operações AND, OR, NOT, NOR, NAND, XOR, SHIFT (esquerda e direita), soma e subtração
-Extensor de sinal de 4 bits para 8 bits
-Máquina de estados utilizando portas lógicas
-Contador Síncrono
-Detector de paridade ímpar
-Otimização lógica utilizando Mapas de Karnaugh (porta XNOR)
-Decodificador de 7 Segmentos
-Detector de Número Primo
+Registrador Flip-Flop do tipo D e JK;
+Multiplexador de quatro opções de entrada;
+Porta lógica XOR utilizando AND, NOT e OR;
+Somador de 8 bits que recebe um valor inteiro e soma com o valor 4;
+Memória ROM de 8 bits;
+Memória RAM de 8 bits;
+Banco de Registradores de 8 bits;
+Somador de 8 bits;
+Detector de sequência binária "101";
+ULA de 8 bits com operações AND, OR, NOT, NOR, NAND, XOR, SHIFT (esquerda e direita), soma e subtração;
+Extensor de sinal de 4 bits para 8 bits;
+Máquina de estados utilizando portas lógicas;
+Contador Síncrono;
+Detector de paridade ímpar;
+Otimização lógica utilizando Mapas de Karnaugh (porta XNOR);
+Decodificador de 7 Segmentos;
+Detector de Número Primo;
 
 ---DocumentaçãoGeral/ ---
 
